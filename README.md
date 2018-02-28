@@ -5,6 +5,7 @@ In progress
 
 Used in this project:  
 -HTML5 and CSS3  
+-SASS  
 -Float positioning  
 -CSS animation effects and keyframes  
 -CSS BEM Methodology  
